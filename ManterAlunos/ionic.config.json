@@ -1,8 +1,8 @@
 {
   "name": "ManterAlunos",
-  "app_id": "",
-  "v2": true, 
-  "typescript": true,
+  "app_id": "", //
+  "v2": true,  //
+  "typescript": true, //
   "integrations": {},
   "type": "angular"
 }

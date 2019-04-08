@@ -2,7 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { Aluno } from "../alunos/pessoa";
 import {HttpClient, HttpErrorResponse} from '@angular/common/http';
 import { AlertController, LoadingController } from '@ionic/angular';
-import { PessoasService } from '../provider/pessoas.service.spec';
+import { PessoasService } from '../provider/pessoas.service';
 
 
 
